@@ -1,5 +1,5 @@
 # WindML
-•Wind energy prediction represents an important and active field in the renewable energy sector. Since renewable energy sources are integrated into existing grids and combined with traditional sources,knowing the amount of energy that will be produced is key in minimizing the operational cost of the wind
+• Wind energy prediction represents an important and active field in the renewable energy sector. Since renewable energy sources are integrated into existing grids and combined with traditional sources,knowing the amount of energy that will be produced is key in minimizing the operational cost of the wind
 farm and safe operation of the power grid.
 
 • To create windmill Power Prediction using machine learning and deploy in the cloud environment.
